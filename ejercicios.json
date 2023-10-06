@@ -1,0 +1,369 @@
+{
+  "experiencia 1": [
+  {
+      "nombre": "Flexiones de pared",
+      "objetivo": [1, 3, 4],
+      "musculos": ["triceps", "hombros", "pecho"],
+      "set": 4,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "Curl de bíceps con bandas elásticas",
+      "objetivo":[2, 3],
+      "musculos": ["biceps"],
+      "set": 4,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":"banda"
+  },
+  {
+      "nombre": "Tríceps en silla",
+      "objetivo": [2, 3],
+      "musculos": ["triceps"],
+      "set": 4,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "Flexiones de rodillas",
+      "objetivo": [1,3],
+      "musculos": ["biceps", "triceps", "hombros"],
+      "set": 4,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "Plancha de antebrazo",
+      "objetivo": [1, 3, 4],
+      "musculos": ["triceps", "abdominal"],
+      "set": 3,
+      "repeticion": null,
+      "duracion": 30,
+      "equipo":null
+  },
+  {
+      "nombre": "Press de banca",
+      "objetivo": [2, 4],
+      "musculos": ["Pectorales"],
+      "set": 4,
+      "repeticion": 8,
+      "duracion": null,
+      "equipo":""
+  },
+  {
+      "nombre": "Martillo con mancuernas",
+      "objetivo": [2, 4],
+      "musculos": ["Bíceps"],
+      "set": 3,
+      "repeticiones": 10,
+      "duracion": null,
+      "equipo":""
+  },
+  {
+      "nombre": "Curl concentrado",
+      "objetivo": [2, 4],
+      "musculos": ["Bíceps"],
+      "set": 3,
+      "repeticion": 15,
+      "duracion": null,
+      "equipo":""
+  },
+  {
+      "nombre": "Curl de cable",
+      "objetivo": [2, 4],
+      "musculos": ["Bíceps"],
+      "set": 3,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":""
+  }, 
+  {
+      "nombre": "Curl de araña",
+      "objetivo": [],
+      "musculos": ["Bícep"],
+      "set": 3,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":""
+  },
+  {
+      "nombre": "Jumping Jacks",
+      "objetivo": [1, 3],
+      "musculos": ["cardio"],
+      "set": 3,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":""
+  },
+  {
+      "nombre": "sentadilla isometrica",
+      "objetivo": [1, 3],
+      "musculos": ["cardio"],
+      "set": 3,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "Salto de cuerda",
+      "objetivo": [1, 3],
+      "musculos": ["cardio"],
+      "set": 3,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "plancha lateral",
+      "objetivo": [1, 3],
+      "musculos": ["abdominal"],
+      "set": 3,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "burpee",
+      "objetivo": [1],
+      "musculos": ["abdominal"],
+      "set": 3,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "zancada frontal",
+      "objetivo": [1, 3],
+      "musculos": ["muslo", "cuadriceps"],
+      "set": 3,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "press de hombro con mancuernas",
+      "objetivo": [1, 2, 3, 4],
+      "musculos": ["triceps", "hombros", "pecho"],
+      "set": 4,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":"mancuernas"
+  },    
+  {
+      "nombre": "dead bug",
+      "objetivo": [1, 3],
+      "musculos": ["abdominal", "espalda baja","gluteos"],
+      "set": 5,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "puente para gluteos",
+      "objetivo": [2, 3, 4],
+      "musculos": ["gluteos"],
+      "set": 4,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "abdominales simples",
+      "objetivo": [2, 3],
+      "musculos": ["abdominal"],
+      "set": 3,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "abdominales cruzados",
+      "objetivo": [2, 3],
+      "musculos": ["abdominal"],
+      "set": 3,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "abdominales bicicleta",
+      "objetivo": [2, 3],
+      "musculos": ["abdominal"],
+      "set": 3,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "tijeras",
+      "objetivo": [2, 3],
+      "musculos": ["abdominal"],
+      "set": 3,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "sentadilla de sumo",
+      "objetivo": [2, 3],
+      "musculos": ["pierna","gluteos"],
+      "set": 4,
+      "repeticion": 8,
+      "duracion": null,
+      "equipo":"mancuernas"
+  },
+  {
+      "nombre": "remo con barra",
+      "objetivo": [2, 3, 4],
+      "musculos": ["espalda superior"],
+      "set": 4,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":"barra"
+  }
+  ],
+"experiencia 2": [
+  {
+      "nombre": "remo con barra",
+      "objetivo": [2, 3, 4],
+      "musculos": ["espalda superior"],
+      "set": 4,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":"barra"
+  },
+  {
+      "nombre": "Flexio---nes clásicas",
+      "objetivo": [1, 2, 3, 4],
+      "musculos": ["triceps", "hombros", "pecho"],
+      "set": 4,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":"barra",
+      "nota": "relizar 10 repeticiones cortas 10- 10 largas-10 segundos"
+  },
+      {
+      "nombre": "Flexiones clásicas",
+      "objetivo": [1, 2, 3, 4],
+      "musculos": ["triceps", "hombros", "pecho"],
+      "set": 4,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "Curl de bíceps con mancuernas",
+      "objetivo": [2, 3],
+      "musculos": ["biceps"],
+      "set": 5,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":"mancuernas"
+  },
+  {
+      "nombre": "Fondos en paralelas",
+      "objetivo": [1, 2, 3, 4],
+      "musculos": ["biceps", "espalda"],
+      "set": 5,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "Dominadas asistidas",
+      "objetivo": [1, 2, 3, 4],
+      "musculos": ["biceps", "espalda"],
+      "set": 5,
+      "repeticion": 8,
+      "duracion": null,
+      "equipo":"banda"
+  },
+  {
+      "nombre": "Curl de martillo",
+      "objetivo": [2, 3],
+      "musculos": ["biceps", "antebrazos"],
+      "set": 5,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":"mancuernas"
+  },
+  {
+      "nombre": "Press inclinado con barra",
+      "objetivo": [2, 4],
+      "musculos": ["Pectorales"],
+      "set": 4,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":"barra"
+  },   
+  {
+      "nombre": "Aperturas con mancuernas",
+      "objetivo": [2, 4],
+      "musculos": ["Pectorales"],
+      "set": 3,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":"mancuernas"
+  }
+  ],
+"experiencia 3": [
+      {
+      "nombre": "Flexiones diamante",
+      "objetivo": [1, 3, 4],
+      "musculos": ["triceps", "pecho"],
+      "set": 4,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "Dominadas con peso",
+      "objetivo": [2, 4],
+      "musculos": ["biceps", "espalda"],
+      "set": 4,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":"barra"
+  },
+  {
+      "nombre": "Fondos en anillas",
+      "objetivo": [1, 2, 3, 4],
+      "musculos": ["triceps", "hombros"],
+      "set": 4,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":null
+  },
+  {
+      "nombre": "Curl de bíceps 21s",
+      "objetivo": [2, 3],
+      "musculos": ["biceps"],
+      "set": 4,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":"barra"
+  },
+  {
+      "nombre": "Tríceps en cuerda",
+      "objetivo": [2, 3, 4],
+      "musculos": ["triceps"],
+      "set": 4,
+      "repeticion": 12,
+      "duracion": null,
+      "equipo":"maquina"
+  },
+  {
+      "nombre": "Pulldown de polea alta",
+      "objetivo": [2, 4],
+      "musculos": ["triceps","Pectorales"],
+      "set": 4,
+      "repeticion": 10,
+      "duracion": null,
+      "equipo":"maquina"
+    }
+]
+}
