@@ -730,7 +730,7 @@
       {
         "nombre": "crunch en polea alta",
         "objetivo": [2, 4],
-        "musculos": ["abdominal"],
+        "musculos": ["abdomen"],
         "set": 4,
         "repeticion": 10,
         "duracion": null,
