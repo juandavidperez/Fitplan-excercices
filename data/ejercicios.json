@@ -1,469 +1,755 @@
 {
     "experiencia 1": [
-        {
+    {
+        "nombre": "press de piernas",
+        "objetivo": [1, 2, 3, 4],
+        "musculos": ["gluteos", "pierna", "cuadriceps"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"maquina",
+        "dificultad":["lesiones rodillas"],
+        "gif": "{ https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif }"
+    },
+    {
+        "nombre": "Press de banca",
+        "objetivo": [1, 2, 4],
+        "musculos": ["Pectorales"],
+        "set": 2,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"barra",
+        "dificultad":["lesiones hombros"],
+        "gif": " { https://www.thingys.com.ar/gymapps/tutorial/pressbanca.gif }"
+    },
+    {
+        "nombre": "remo horizontal",
+        "objetivo": [1, 2,3],
+        "musculos": ["espalda superior", "hombros"],
+        "set": 2,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"maquina",
+        "dificultad":["lesiones hombros","lesiones espalda"],
+        "gif":"{ https://www.thingys.com.ar/gymapps/tutorial/dors1.gif }"
+    },
+    {
+        "nombre": "press de hombro con mancuernas",
+        "objetivo": [ 1,2, 3],
+        "musculos": ["triceps", "hombros", "pecho"],
+        "set": 2,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"mancuernas",
+        "dificultad":["lesiones hombros"],
+        "gif":" { https://i.pinimg.com/originals/a0/62/45/a06245ae35f261838e8aa7eb133c080d.gif }"
+    },
+    {
+        "nombre": "Plancha abdominal",
+        "objetivo": [1, 3, 4],
+        "musculos": ["triceps", "abdominal"],
+        "set": 3,
+        "repeticion": null,
+        "duracion": 20,
+        "equipo":null,
+        "dificultad":["lesiones hombros", "lesiones espalda"],
+        "gif":"{ https://media-s3-us-east-1.ceros.com/fidelity-interactive/images/2019/04/23/fa0ba91510838f144dea9eb30cc005a7/planks.gif }"
+    }, 
+    {
+        "nombre": "giros rusos",
+        "objetivo": [1, 3],
+        "musculos": ["abdominal"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":null,
+        "dificultad":["lesiones espalda"],
+        "gif":"{ https://www.yomeentreno.com/wp-content/uploads/2017/06/09.gif}"
+    },
+    {
+        "nombre": "sentadilla copa",
+        "objetivo": [1, 2, 3, 4],
+        "musculos": ["gluteos"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"mancuernas",
+        "dificultad":["lesiones rodillas"],
+        "gif":"{ https://static.wixstatic.com/media/c94d75_5da40ebd254249df861fb7cd7070fbcb~mv2.gif }"
+    },
+    {
         "nombre": "Flexiones de pared",
         "objetivo": [1, 3, 4],
         "musculos": ["triceps", "hombros", "pecho"],
         "set": 4,
         "repeticion": 12,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Curl de bíceps con bandas elásticas",
-        "objetivo": [2, 3],
+        "equipo":null,
+        "dificultad":["lesiones hombros"],
+        "gif":"{ https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/TGKS77WPWBA7HF6CGPNYTIWXJA.gif }"
+    },
+    {
+        "nombre": "Flexiones de rodillas",
+        "objetivo": [1,3],
+        "musculos": ["biceps", "triceps", "hombros"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":null,
+        "dificultad":["lesiones rodillas","lesiones hombros"],
+        "gif":"{ https://i.pinimg.com/originals/74/d8/49/74d849bb8e7569003d64f7861004d35b.gif }"
+    },
+    {
+        "nombre": "elevaciones laterales con mancuernas",
+        "objetivo": [1,2,3,4],
+        "musculos": ["hombros"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":null,
+        "dificultad":["lesiones hombros"],
+        "gif":"{ https://doriangym.es/wp-content/uploads/2021/11/ejecucion-elevaciones-laterales-con-mancuernas.gif }"
+    },
+    {
+        "nombre": "abdominales cruzados",
+        "objetivo": [ 1, 3, 4],
+        "musculos": ["abdominal"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":null,
+        "dificultad":["lesiones espalda"],
+        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/08/oie_nNrATfM0ABd7.gif?fit=357%2C301&ssl=1 }"
+    },
+    {
+        "nombre": "zancadilla con mancuerna",
+        "objetivo": [1,3, 4],
+        "musculos": ["gluteos", "pierna"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"mancuernas",
+        "dificultad":["lesiones rodillas"],
+        "gif":"{ https://hips.hearstapps.com/hmg-prod/images/lunges-1561536831.gif}"
+    },
+    {
+        "nombre": "aperturas en peck deck",
+        "objetivo": [2, 3, 4],
+        "musculos": ["Pectorales", "pecho"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"maquina",
+        "dificultad":["lesiones espalda","lesiones hombros"],
+        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/04/pecdeck.gif?fit=720%2C720&ssl=1 }"
+    },
+    {
+        "nombre": "puente para gluteos con mancuerna",
+        "objetivo": [2, 3, 4],
+        "musculos": ["gluteos"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"mancuernas",
+        "dificultad":["lesiones espalda"],
+        "gif":"{ https://media.metrolatam.com/2020/07/10/puente2-776dce0f68657151ed9b4e8acbf6eae4.gif }"
+    },
+    {
+        "nombre": "Vuelos Posteriores Mancuernas",
+        "objetivo": [2, 3, 4],
+        "musculos": ["hombros"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"mancuernas",
+        "dificultad":["lesiones espalda","lesiones hombros"],
+        "gif":"{ https://www.thingys.com.ar/gymapps/tutorial/v_post_manc.gif }"
+    },
+    {
+        "nombre": "abdominales simples",
+        "objetivo": [2, 3, 4],
+        "musculos": ["abdominal"],
+        "set": 3,
+        "repeticion": 20,
+        "duracion": null,
+        "equipo":null,
+        "dificultad":["lesiones espalda"],
+        "gif":"{ https://j.gifs.com/ElQN8m@small.gif }"
+    },
+    {
+        "nombre": "plancha lateral",
+        "objetivo": [1, 3],
+        "musculos": ["abdominal"],
+        "set": 2,
+        "repeticion": null,
+        "duracion": 20,
+        "equipo":null,
+        "dificultad":["lesiones hombros"],
+        "gif":"{ https://i.pinimg.com/originals/0a/19/95/0a19954ee641f0b08c34954d9251bab1.gif }"
+    },
+    {
+        "nombre": "Curl de bíceps",
+        "objetivo":[2, 3],
         "musculos": ["biceps"],
         "set": 4,
         "repeticion": 12,
         "duracion": null,
-        "equipo": "banda",
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
+        "equipo":"mancuernas",
+        "dificultad":[null],
+        "gif":" {https://www.deportrainer.com/img/cms/Post%20de%20blog/curl_de_biceps/curl-biceps-supino-con-mancuernas.gif }"
+    },
+    {
         "nombre": "Tríceps en silla",
         "objetivo": [2, 3],
         "musculos": ["triceps"],
         "set": 4,
         "repeticion": 12,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "lesiones", "falta_extremidades"]
-        },
-        {   
-        "nombre": "Flexiones de rodillas",
-        "objetivo": [1, 3],
-        "musculos": ["biceps", "triceps", "hombros"],
-        "set": 4,
-        "repeticion": 12,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Plancha de antebrazo",
-        "objetivo": [1, 3, 4],
-        "musculos": ["triceps", "abdominal"],
-        "set": 3,
-        "repeticion": null,
-        "duracion": 30,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Press de banca",
-        "objetivo": [2, 4],
-        "musculos": ["Pectorales"],
-        "set": 4,
-        "repeticion": 8,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "lesiones", "falta_extremidades"]
-        },
-        {
+        "equipo":null,
+        "dificultad":["lesiones hombros"],
+        "gif":"{ https://qph.cf2.quoracdn.net/main-qimg-2d15ad204dd541b20a5b82bbbb30847d }"
+    },
+    {
         "nombre": "Martillo con mancuernas",
         "objetivo": [2, 4],
         "musculos": ["Bíceps"],
         "set": 3,
-        "repeticion": 10,
+        "repeticiones": 10,
         "duracion": null,
-        "equipo": "mancuernas",
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
+        "equipo":"mancuernas",
+        "dificultad":[null],
+        "gif":"{ https://rincondelmusculo.com/wp-content/uploads/2014/09/CURL_DE_MARTILLO.gif }"
+    },
+    {
         "nombre": "Curl concentrado",
         "objetivo": [2, 4],
         "musculos": ["Bíceps"],
         "set": 3,
         "repeticion": 15,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
+        "equipo":"mancuernas",
+        "dificultad":["lesiones hombros"],
+        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/07/curl-concentre.gif }"
+    },
+    {
         "nombre": "Curl de cable",
         "objetivo": [2, 4],
         "musculos": ["Bíceps"],
         "set": 3,
         "repeticion": 12,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Curl de araña",
-        "objetivo": [],
-        "musculos": ["Bíceps"],
-        "set": 3,
-        "repeticion": 10,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
+        "equipo":"",
+        "dificultad":["lesiones hombros"],
+        "gif":" { https://www.inspireusafoundation.org/wp-content/uploads/2022/12/cable-drag-curl.gif }"
+    }, 
+    {
         "nombre": "Jumping Jacks",
         "objetivo": [1, 3],
         "musculos": ["cardio"],
         "set": 3,
         "repeticion": 10,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Sentadilla isométrica",
-        "objetivo": [1, 3],
-        "musculos": ["muslos", "cuadriceps"],
-        "set": 3,
-        "repeticion": 10,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
+        "equipo":"",
+        "dificultad":[null],
+        "gif":" { https://www.icegif.com/wp-content/uploads/icegif-134.gif }"
+    },
+    {
         "nombre": "Salto de cuerda",
         "objetivo": [1, 3],
         "musculos": ["cardio"],
         "set": 3,
-        "repeticion": 10,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Plancha lateral",
-        "objetivo": [1, 3],
-        "musculos": ["abdominales"],
-        "set": 3,
-        "repeticion": 10,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Burpee",
+        "repeticion": null,
+        "duracion": 25,
+        "equipo":null,
+        "dificultad":[null],
+        "gif":"{ https://3.bp.blogspot.com/-ri8owFtzbZ0/WosdWfKbGwI/AAAAAAAAbHo/7ARtgvZPnMwXr3002fFfaCJShRqKLg_wwCKgBGAs/s1600/SALTAR-LA-CUERDA.gif }"
+    },
+    {
+        "nombre": "burpee",
         "objetivo": [1],
-        "musculos": ["abdominales"],
+        "musculos": ["abdominal"],
         "set": 3,
         "repeticion": 10,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Zancada frontal",
-        "objetivo": [1, 3],
+        "equipo":null,
+        "dificultad":["lesiones espalda"],
+        "gif":"{ https://media1.giphy.com/media/sdPLLtuVeRdJ9DyCej/giphy.gif }"
+    },
+    {
+        "nombre": "zancada frontal",
+        "objetivo": [1, 3, 4],
         "musculos": ["muslo", "cuadriceps"],
         "set": 3,
         "repeticion": 10,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Press de hombro con mancuernas",
-        "objetivo": [1, 2, 3, 4],
-        "musculos": ["triceps", "hombros", "pecho"],
-        "set": 4,
-        "repeticion": 12,
-        "duracion": null,
-        "equipo": "mancuernas",
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Dead bug",
+        "equipo":null,
+        "dificultad":["lesiones rodillas"],
+        "gif":"{ https://media.tenor.com/FKDGhd7VwAAAAAAC/estocadas-frontales.gif }"
+    },   
+    {
+        "nombre": "dead bug",
         "objetivo": [1, 3],
-        "musculos": ["abdominales", "espalda baja", "gluteos"],
+        "musculos": ["abdominal", "espalda baja","gluteos"],
         "set": 5,
         "repeticion": 12,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Puente para gluteos",
+        "equipo":null,
+        "dificultad":["lesiones espalda"],
+        "gif":"{ https://www.verywellfit.com/thmb/MHZjRAV_-B8M38m5mHnX75EmA1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/105-Dead-Bug-ExerciseGIF-407d0bbb6d8742be855b219e74c18bd0.gif }"
+    },
+    {
+        "nombre": "abdominales bicicleta",
         "objetivo": [2, 3, 4],
-        "musculos": ["gluteos"],
-        "set": 4,
-        "repeticion": 10,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Abdominales simples",
-        "objetivo": [2, 3],
-        "musculos": ["abdominales"],
+        "musculos": ["abdominal"],
         "set": 3,
         "repeticion": 10,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Abdominales cruzados",
+        "equipo":null,
+        "dificultad":["lesiones espalda"],
+        "gif":"{ https://i.pinimg.com/originals/e1/e0/c6/e1e0c6c9eed187debddf2007562373ba.gif }"
+    },
+    {
+        "nombre": "tijeras",
         "objetivo": [2, 3],
-        "musculos": ["abdominales"],
+        "musculos": ["abdominal"],
         "set": 3,
         "repeticion": 10,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Abdominales bicicleta",
-        "objetivo": [2, 3],
-        "musculos": ["abdominales"],
-        "set": 3,
-        "repeticion": 10,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Tijeras",
-        "objetivo": [2, 3],
-        "musculos": ["abdominales"],
-        "set": 3,
-        "repeticion": 10,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Sentadilla de sumo",
-        "objetivo": [2, 3],
-        "musculos": ["piernas", "glúteos"],
-        "set": 4,
-        "repeticion": 8,
-        "duracion": null,
-        "equipo": "mancuernas",
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Remo con barra",
+        "equipo":null,
+        "dificultad":[null],
+        "gif":"{ https://i.pinimg.com/originals/f4/ee/2b/f4ee2bcfe020bb896d45eadc64124a85.gif }"
+    },
+    {
+        "nombre": "sentadilla de sumo",
         "objetivo": [2, 3, 4],
-        "musculos": ["espalda superior"],
-        "set": 4,
-        "repeticion": 10,
+        "musculos": ["pierna","gluteos"],
+        "set": 3,
+        "repeticion": 6,
         "duracion": null,
-        "equipo": "barra",
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        }
+        "equipo":"mancuernas",
+        "dificultad":["lesiones rodillas"],
+        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/06/squat-sumo-avec-haltere-2.gif }"
+    }
     ],
-    "experiencia 2": [
-        {
-        "nombre": "Remo con barra",
+  "experiencia 2": [
+    {
+        "nombre": "Tríceps en silla",
+        "objetivo": [2, 3],
+        "musculos": ["triceps"],
+        "set": 4,
+        "repeticion": 12,
+        "duracion": null,
+        "equipo":null,
+        "dificultad":["lesiones hombros"],
+        "gif":"{ https://qph.cf2.quoracdn.net/main-qimg-2d15ad204dd541b20a5b82bbbb30847d }"
+    },
+    {
+        "nombre": "Salto de cuerda",
+        "objetivo": [1, 3],
+        "musculos": ["cardio"],
+        "set": 3,
+        "repeticion": null,
+        "duracion": 25,
+        "equipo":null,
+        "dificultad":[null],
+        "gif":"{ https://3.bp.blogspot.com/-ri8owFtzbZ0/WosdWfKbGwI/AAAAAAAAbHo/7ARtgvZPnMwXr3002fFfaCJShRqKLg_wwCKgBGAs/s1600/SALTAR-LA-CUERDA.gif }"
+    },
+    {
+        "nombre": "aperturas en peck deck",
+        "objetivo": [2, 3, 4],
+        "musculos": ["Pectorales", "pecho"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"maquina",
+        "dificultad":["lesiones espalda","lesiones hombros"],
+        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/04/pecdeck.gif?fit=720%2C720&ssl=1 }"
+    },
+    {
+        "nombre": "abdominales cruzados",
+        "objetivo": [ 1, 3, 4],
+        "musculos": ["abdominal"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":null,
+        "dificultad":["lesiones espalda"],
+        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/08/oie_nNrATfM0ABd7.gif?fit=357%2C301&ssl=1 }"
+    },
+    {
+        "nombre": "Press de banca",
+        "objetivo": [1, 2, 4],
+        "musculos": ["Pectorales"],
+        "set": 2,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"barra",
+        "dificultad":["lesiones hombros"],
+        "gif": " { https://www.thingys.com.ar/gymapps/tutorial/pressbanca.gif }"
+    },
+    {
+        "nombre": "prensa de pierna",
+        "objetivo": [2, 3, 4],
+        "musculos": ["pierna","gluteos"],
+        "set": 4,
+        "repeticion": 10,
+        "duracion": null,
+        "equipo":"maquina",
+        "dificultad":["lesiones rodillas"],
+        "gif":"{ https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif} "
+    },
+    {
+        "nombre": "remo con barra",
         "objetivo": [2, 3, 4],
         "musculos": ["espalda superior"],
         "set": 4,
         "repeticion": 10,
         "duracion": null,
-        "equipo": "barra",
-        "dificultad": ["lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Flexiones clásicas",
-        "objetivo": [1, 2, 3, 4],
-        "musculos": ["triceps", "hombros", "pecho"],
+        "equipo":"barra",
+        "dificultad":["lesiones espalda","lesiones hombros"],
+        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/07/REMO-CON-BARRA-PARADO-AGARRE-SUPINO.gif?fit=360%2C360&ssl=1} "
+    },
+    {
+        "nombre": "sentadilla de sumo",
+        "objetivo": [2, 3, 4],
+        "musculos": ["pierna", "gluteos"],
         "set": 4,
-        "repeticion": 12,
-        "duracion": null,
-        "equipo": "barra",
-        "nota": "Realizar 10 repeticiones cortas, 10 repeticiones largas, 10 segundos",
-        "dificultad": ["cardiacas", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Flexiones clásicas",
-        "objetivo": [1, 2, 3, 4],
-        "musculos": ["triceps", "hombros", "pecho"],
-        "set": 4,
-        "repeticion": 12,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Curl de bíceps con mancuernas",
-        "objetivo": [2, 3],
-        "musculos": ["biceps"],
-        "set": 5,
-        "repeticion": 10,
-        "duracion": null,
-        "equipo": "mancuernas",
-        "dificultad": ["lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Fondos en paralelas",
-        "objetivo": [1, 2, 3, 4],
-        "musculos": ["biceps", "espalda"],
-        "set": 5,
-        "repeticion": 10,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Dominadas asistidas",
-        "objetivo": [1, 2, 3, 4],
-        "musculos": ["biceps", "espalda"],
-        "set": 5,
         "repeticion": 8,
         "duracion": null,
-        "equipo": "banda",
-        "dificultad": ["cardiacas", "lesiones", "falta_extremidades"]
-        },
-        {
+        "equipo":"mancuernas",
+        "nota": "utiliza un peso que logres manejar pero que te haga esforzar un poco",
+        "dificultad":["lesiones rodillas"],
+        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/06/squat-sumo-avec-haltere-2.gif }"
+    },
+    {
+        "nombre": "peso muerto",
+        "objetivo": [2, 3, 4],
+        "musculos": ["espalda baja", "pierna","gluteos"],
+        "set": 4,
+        "repeticion": 12,
+        "duracion": null,
+        "equipo":["barra","pesas"],
+        "nota": "aumenta el peso, a uno que manejes pero que te haga esforzar mas",
+        "dificultad":["lesiones espalda"],
+        "gif":" https://boxlifemagazine.com/wp-content/uploads//2023/06/souleve-de-terre-roumain.gif}"
+    },
+    {
+        "nombre": "Flexiones clásicas",
+        "objetivo": [1, 2, 3, 4],
+        "musculos": ["triceps", "pecho"],
+        "set": 4,
+        "repeticion": 12,
+        "duracion": null,
+        "equipo":null,
+        "dificultad":["lesiones hombros"],
+        "gif":"{ https://hips.hearstapps.com/hmg-prod/images/pushup-1525365829.gif }"
+    },
+    {
+        "nombre": "pull-downs",
+        "objetivo": [2, 3, 4],
+        "musculos": ["espalda", "biceps"],
+        "set": 4,
+        "repeticion": 8,
+        "duracion": null,
+        "equipo":"maquina",
+        "dificultad":["lesiones espalda","lesiones espalda"],
+        "gif":"{ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPNOG99pOqVFpssjTz3ti73VBMfWMd5SHOxUjT2A4Odhvh6d568HOFCG1s8FxOMm1qrE8&usqp=CAU }"
+    },
+    {
+        "nombre": "sentadilla con barra",
+        "objetivo": [2,4, 3],
+        "musculos": ["pierna","gluteos"],
+        "set": 4,
+        "repeticion": 8,
+        "duracion": null,
+        "equipo":"barra",
+        "dificultad":["lesiones rodillas","lesiones espalda"],
+        "gif":"{https://boxlifemagazine.com/wp-content/uploads//2023/06/homme-faisant-un-squat-avec-barre-5.gif }"
+    },
+    {
+        "nombre": "Curl de bíceps con mancuernas",
+        "objetivo": [2, 3, 4],
+        "musculos": ["biceps"],
+        "set": 4,
+        "repeticion": 8,
+        "duracion": null,
+        "equipo":"mancuernas",
+        "dificultad":[null],
+        "gif":"{ https://doriangym.es/wp-content/uploads/2022/10/curl-de-biceps-con-mancuernas.gif}"
+    },
+    {
+        "nombre": "Fondos en paralelas",
+        "objetivo": [2, 3, 4],
+        "musculos": ["pecho", "triceps"],
+        "set": 4,
+        "repeticion": 8,
+        "duracion": null,
+        "equipo":"maquina",
+        "dificultad":["lesiones hombros"],
+        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/06/fondo-en-paralelas.gif?fit=360%2C360&ssl=1 }"
+    },
+    {
+        "nombre": "Dominadas asistidas",
+        "objetivo": [2, 3, 4],
+        "musculos": ["biceps", "espalda"],
+        "set": 4,
+        "repeticion": 8,
+        "duracion": null,
+        "equipo":["banda","barra","maquina"],
+        "nota":"puedes usar una maquina o usar una banda elastica para ayudarte, pero no es estrictamente usar asistencias, sientete libre de hacerlas como desees",
+        "dificultad":["lesiones hombros"],
+        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/08/DOMINADA-ASISTIDA-CON-BANDA-ELASTICA.gif?fit=255%2C309&ssl=1}"
+    },
+    {
+        "nombre": "extenciones de triceps",
+        "objetivo": [2, 3, 4],
+        "musculos": ["triceps"],
+        "set": 4,
+        "repeticion": 8,
+        "duracion": null,
+        "equipo":"mancuernas",
+        "dificultad":[null],
+        "gif":"{https://www.thingys.com.ar/gymapps/tutorial/7c9218fc52e8256003159658198439e2.gif} "
+    },
+    {
         "nombre": "Curl de martillo",
         "objetivo": [2, 3],
-        "musculos": ["biceps", "antebrazos"],
-        "set": 5,
-        "repeticion": 10,
-        "duracion": null,
-        "equipo": "mancuernas",
-        "dificultad": ["lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Press inclinado con barra",
-        "objetivo": [2, 4],
-        "musculos": ["Pectorales"],
+        "musculos": ["biceps"],
         "set": 4,
         "repeticion": 10,
         "duracion": null,
-        "equipo": "barra",
-        "dificultad": ["lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Aperturas con mancuernas",
+        "equipo":"mancuernas",
+        "dificultad":[null],
+        "gif":" { https://boxlifemagazine.com/wp-content/uploads//2023/08/curl-haltere-prise-neutre-min-1.gif }"
+    },
+    {
+        "nombre": "Press inclinado con barra",
+        "objetivo": [2,3, 4],
+        "musculos": ["pecho","triceps"],
+        "set": 4,
+        "repeticion": 10,
+        "duracion": null,
+        "equipo":"barra",
+        "dificultad":["lesiones hombros"],
+        "gif":" { https://www.deportrainer.com/img/cms/Post%20de%20blog/press_banca_inclinado/ejecuci%C3%B3n-movimiento-press-superior-con-la-barra.gif }"
+    },   
+    {
+        "nombre": "sentadilla bulgara",
+        "objetivo": [2,3, 4],
+        "musculos": ["pierna","gluteos"],
+        "set": 4,
+        "repeticion": 8,
+        "duracion": null,
+        "equipo":"mancuernas",
+        "dificultad":["lesiones rodillas"],
+        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/08/squat-bulgare-halteres-exercice-musculation.gif }"
+    },
+    {
+        "nombre": "hip thrust",
         "objetivo": [2, 4],
-        "musculos": ["Pectorales"],
-        "set": 3,
+        "musculos": ["gluteos","espalda baja"],
+        "set": 4,
+        "repeticion": 10,
+        "duracion": null,
+        "equipo":["mancuernas","maquina"],
+        "dificultad":["lesiones espalda"],
+        "nota":"Para este ejercicio pueder usar una mancuerna,un saco con peso o una mauina especial, como desees, si quieres tener un mejor y más rápido resultado puedes hacer primero diez repeticiones normales y luego otras 10 pero estas con un rango de recorrido mucho m'as corto, es decir, no baje tanto seguido de esto en la ultima repeticion mantente arriba 10 segundos, aguanta, haz esto en cada serie ",
+        "gif":"{ https://biomecanicadeportiva.cl/wp-content/uploads/2021/04/barbellhipthrust.gif }"
+    }
+    ],
+  "experiencia 3": [
+    {
+        "nombre": "Tríceps en silla",
+        "objetivo": [2, 3],
+        "musculos": ["triceps"],
+        "set": 4,
         "repeticion": 12,
         "duracion": null,
-        "equipo": "mancuernas",
-        "dificultad": ["lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Sentadillas con peso corporal",
+        "equipo":null,
+        "dificultad":["lesiones hombros"],
+        "gif":"{ https://qph.cf2.quoracdn.net/main-qimg-2d15ad204dd541b20a5b82bbbb30847d }"
+    },
+    {
+        "nombre": "Salto de cuerda",
         "objetivo": [1, 3],
-        "musculos": ["piernas", "glúteos"],
-        "set": 4,
-        "repeticion": 10,
-        "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Plancha en T",
-        "objetivo": [1, 3, 4],
-        "musculos": ["abdominales", "hombros", "espalda"],
-        "set": 4,
+        "musculos": ["cardio"],
+        "set": 3,
         "repeticion": null,
-        "duracion": 30,
-        "equipo": null,
-        "dificultad": ["cardiacas", "lesiones", "falta_extremidades"]
-        }
-    ],
-    "experiencia 3": [
-        {
+        "duracion": 25,
+        "equipo":null,
+        "dificultad":[null],
+        "gif":"{ https://3.bp.blogspot.com/-ri8owFtzbZ0/WosdWfKbGwI/AAAAAAAAbHo/7ARtgvZPnMwXr3002fFfaCJShRqKLg_wwCKgBGAs/s1600/SALTAR-LA-CUERDA.gif }"
+    },
+    {
+        "nombre": "sentadilla de sumo",
+        "objetivo": [2, 3, 4],
+        "musculos": ["pierna", "gluteos"],
+        "set": 4,
+        "repeticion": 8,
+        "duracion": null,
+        "equipo":"mancuernas",
+        "nota": "utiliza un peso que logres manejar pero que te haga esforzar un poco",
+        "dificultad":["lesiones rodillas"],
+        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/06/squat-sumo-avec-haltere-2.gif }"
+    },
+    {
+        "nombre": "peso muerto",
+        "objetivo": [2, 3, 4],
+        "musculos": ["espalda baja", "pierna","gluteos"],
+        "set": 4,
+        "repeticion": 12,
+        "duracion": null,
+        "equipo":["barra","pesas"],
+        "nota": "aumenta el peso, a uno que manejes pero que te haga esforzar mas",
+        "dificultad":["lesiones espalda"],
+        "gif":" https://boxlifemagazine.com/wp-content/uploads//2023/06/souleve-de-terre-roumain.gif}"
+    },
+    {
+        "nombre": "aperturas en peck deck",
+        "objetivo": [2, 3, 4],
+        "musculos": ["Pectorales", "pecho"],
+        "set": 3,
+        "repeticion": 15,
+        "duracion": null,
+        "equipo":"maquina",
+        "dificultad":["lesiones espalda","lesiones hombros"],
+        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/04/pecdeck.gif?fit=720%2C720&ssl=1 }"
+    },
+    {
+        "nombre": "sentadilla con barra",
+        "objetivo": [2,4, 3],
+        "musculos": ["pierna","gluteos"],
+        "set": 4,
+        "repeticion": 12,
+        "duracion": null,
+        "equipo":"barra",
+        "nota":"usa un peso que no te lastime pero que te haga esforzarte más",
+        "dificultad":["lesiones rodillas","lesiones espalda"],
+        "gif":"{https://boxlifemagazine.com/wp-content/uploads//2023/06/homme-faisant-un-squat-avec-barre-5.gif }"
+    },
+    {
+        "nombre": "Curl de martillo",
+        "objetivo": [2, 3],
+        "musculos": ["biceps"],
+        "set": 4,
+        "repeticion": 12,
+        "duracion": null,
+        "equipo":"mancuernas",
+        "dificultad":[null],
+        "gif":" { https://boxlifemagazine.com/wp-content/uploads//2023/08/curl-haltere-prise-neutre-min-1.gif }"
+    },
+    {
+        "nombre": "sentadilla bulgara",
+        "objetivo": [2,3, 4],
+        "musculos": ["pierna","gluteos"],
+        "set": 4,
+        "repeticion": 12,
+        "duracion": null,
+        "equipo":"mancuernas",
+        "dificultad":["lesiones rodillas"],
+        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/08/squat-bulgare-halteres-exercice-musculation.gif }"
+    },
+    {
+        "nombre": "Press de banca",
+        "objetivo": [2, 3, 4],
+        "musculos": ["triceps", "pecho"],
+        "set": 4,
+        "repeticion": 12,
+        "duracion": null,
+        "equipo":"barra",
+        "nota": "aumenta el peso, a uno que manejes pero que te haga esforzar mas",
+        "dificultad":["lesiones hombros"],
+        "gif":" { https://www.thingys.com.ar/gymapps/tutorial/pressbanca.gif }"
+    },
+    {
+        "nombre": "pull-ups",
+        "objetivo": [2, 3, 4],
+        "musculos": ["espalda", "biceps"],
+        "set": 4,
+        "repeticion": 12,
+        "duracion": null,
+        "equipo":"barra",
+        "dificultad":["lesiones hombros","lesiones espalda"],
+        "gif":"{ https://fitnessprogramer.com/wp-content/uploads/2021/02/Pull-up.gif }"
+    },
+    {
         "nombre": "Flexiones diamante",
         "objetivo": [1, 3, 4],
         "musculos": ["triceps", "pecho"],
         "set": 4,
         "repeticion": 10,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
+        "equipo":null,
+        "dificultad":[],
+        "gif":" { https://entrenandoc.com/wp-content/uploads/2023/06/flexiones-de-brazos-diamante.gif}"
+    },
+    {
         "nombre": "Dominadas con peso",
         "objetivo": [2, 4],
         "musculos": ["biceps", "espalda"],
         "set": 4,
         "repeticion": 12,
         "duracion": null,
-        "equipo": "barra",
-        "dificultad": ["cardiacas", "lesiones", "falta_extremidades"]
-        },
-        {
+        "equipo":"barra",
+        "dificultad":["lesiones hombros","lesiones espalda"],
+        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/09/Weighted-Pull-up.gif?fit=360%2C360&ssl=1}"
+    },
+    {
         "nombre": "Fondos en anillas",
         "objetivo": [1, 2, 3, 4],
         "musculos": ["triceps", "hombros"],
         "set": 4,
         "repeticion": 12,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Curl de bíceps 21s",
-        "objetivo": [2, 3],
-        "musculos": ["biceps"],
-        "set": 4,
-        "repeticion": 12,
-        "duracion": null,
-        "equipo": "barra",
-        "dificultad": ["lesiones", "falta_extremidades"]
-        },
-        {
+        "equipo":null,
+        "dificultad":["lesiones hombros"],
+        "gif":"{https://www.inspireusafoundation.org/wp-content/uploads/2022/01/ring-dip.gif}"
+    },
+    {
         "nombre": "Tríceps en cuerda",
         "objetivo": [2, 3, 4],
         "musculos": ["triceps"],
         "set": 4,
         "repeticion": 12,
         "duracion": null,
-        "equipo": "maquina",
-        "dificultad": ["lesiones", "falta_extremidades"]
-        },
-        {
+        "equipo":"maquina",
+        "dificultad":[null],
+        "gif":"{https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/06/EXTENSION-DE-TRICEPS-CON-SOGA-EN-POLEA-ALTA.gif?fit=360%2C360&ssl=1}"
+    },
+    {
         "nombre": "Pulldown de polea alta",
         "objetivo": [2, 4],
-        "musculos": ["triceps", "Pectorales"],
+        "musculos": ["triceps","Pectorales"],
         "set": 4,
         "repeticion": 10,
         "duracion": null,
-        "equipo": "maquina",
-        "dificultad": ["cardiacas", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Sentadillas con peso corporal",
-        "objetivo": [1, 3],
-        "musculos": ["piernas", "glúteos"],
+        "equipo":"maquina",
+        "dificultad":["lesiones hombros"],
+        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/09/oie_aNG2JGPmwYOt.gif?fit=360%2C360&ssl=1}"
+      },
+      {
+        "nombre": "crunch en polea alta",
+        "objetivo": [2, 4],
+        "musculos": ["abdominal"],
         "set": 4,
         "repeticion": 10,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["cardiacas", "obesidad", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Plancha en T",
-        "objetivo": [1, 3, 4],
-        "musculos": ["abdominales", "hombros", "espalda"],
+        "equipo":"maquina",
+        "dificultad":["lesiones espalda"],
+        "gif":"{ https://entrenandoc.com/wp-content/uploads/2023/08/Standing-Cable-Crunch.gif}"
+      },
+      {
+        "nombre": "hip thrust",
+        "objetivo": [2, 4],
+        "musculos": ["gluteos","espalda baja"],
         "set": 4,
-        "repeticion": null,
-        "duracion": 30,
-        "equipo": null,
-        "dificultad": ["cardiacas", "lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Zancadas inversas",
-        "objetivo": [1, 3],
-        "musculos": ["muslo", "cuadriceps"],
-        "set": 4,
-        "repeticion": 12,
+        "repeticion": 10,
         "duracion": null,
-        "equipo": null,
-        "dificultad": ["lesiones", "falta_extremidades"]
-        },
-        {
-        "nombre": "Elevación lateral de mancuernas",
-        "objetivo": [1, 3, 4],
-        "musculos": ["hombros"],
-        "set": 4,
-        "repeticion": 12,
-        "duracion": null,
-        "equipo": "mancuernas",
-        "dificultad": ["lesiones", "falta_extremidades"]
-        }
-    ]
+        "equipo":["mancuernas","maquina"],
+        "dificultad":["lesiones espalda"],
+        "nota":"Para este ejercicio pueder usar una mancuerna,un saco con peso o una mauina especial, como desees, si quieres tener un mejor y más rápido resultado puedes hacer primero diez repeticiones normales y luego otras 10 pero estas con un rango de recorrido mucho m'as corto, es decir, no baje tanto seguido de esto en la ultima repeticion mantente arriba 10 segundos, aguanta, haz esto en cada serie ",
+        "gif":"{ https://biomecanicadeportiva.cl/wp-content/uploads/2021/04/barbellhipthrust.gif }"
+    }
+
+  ]
 }
