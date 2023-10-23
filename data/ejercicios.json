@@ -9,7 +9,7 @@
         "duracion": null,
         "equipo":"maquina",
         "lesion":["rodillas"],
-        "gif": "{ https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif }"
+        "gif": "https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif"
     },
     {
         "nombre": "Press de banca",
@@ -20,7 +20,7 @@
         "duracion": null,
         "equipo":"barra",
         "lesion":["hombros"],
-        "gif": " { https://www.thingys.com.ar/gymapps/tutorial/pressbanca.gif }"
+        "gif": "https://www.thingys.com.ar/gymapps/tutorial/pressbanca.gif }"
     },
     {
         "nombre": "remo horizontal",
@@ -31,7 +31,7 @@
         "duracion": null,
         "equipo":"maquina",
         "lesion":["hombros","espalda"],
-        "gif":"{ https://www.thingys.com.ar/gymapps/tutorial/dors1.gif }"
+        "gif":"https://www.thingys.com.ar/gymapps/tutorial/dors1.gif"
     },
     {
         "nombre": "press de hombro con mancuernas",
@@ -42,7 +42,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":["hombros"],
-        "gif":" { https://i.pinimg.com/originals/a0/62/45/a06245ae35f261838e8aa7eb133c080d.gif }"
+        "gif":"https://i.pinimg.com/originals/a0/62/45/a06245ae35f261838e8aa7eb133c080d.gif"
     },
     {
         "nombre": "Plancha abdominal",
@@ -53,7 +53,7 @@
         "duracion": 20,
         "equipo":null,
         "lesion":["hombros", "espalda"],
-        "gif":"{ https://media-s3-us-east-1.ceros.com/fidelity-interactive/images/2019/04/23/fa0ba91510838f144dea9eb30cc005a7/planks.gif }"
+        "gif":"https://media-s3-us-east-1.ceros.com/fidelity-interactive/images/2019/04/23/fa0ba91510838f144dea9eb30cc005a7/planks.gif"
     }, 
     {
         "nombre": "giros rusos",
@@ -64,7 +64,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["espalda"],
-        "gif":"{ https://www.yomeentreno.com/wp-content/uploads/2017/06/09.gif}"
+        "gif":"https://www.yomeentreno.com/wp-content/uploads/2017/06/09.gif"
     },
     {
         "nombre": "sentadilla copa",
@@ -75,7 +75,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":["rodillas"],
-        "gif":"{ https://static.wixstatic.com/media/c94d75_5da40ebd254249df861fb7cd7070fbcb~mv2.gif }"
+        "gif":"https://static.wixstatic.com/media/c94d75_5da40ebd254249df861fb7cd7070fbcb~mv2.gif"
     },
     {
         "nombre": "Flexiones de pared",
@@ -86,7 +86,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["hombros"],
-        "gif":"{ https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/TGKS77WPWBA7HF6CGPNYTIWXJA.gif }"
+        "gif":"https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/TGKS77WPWBA7HF6CGPNYTIWXJA.gif"
     },
     {
         "nombre": "Flexiones de rodillas",
@@ -97,7 +97,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["rodillas","hombros"],
-        "gif":"{ https://i.pinimg.com/originals/74/d8/49/74d849bb8e7569003d64f7861004d35b.gif }"
+        "gif":"https://i.pinimg.com/originals/74/d8/49/74d849bb8e7569003d64f7861004d35b.gif"
     },
     {
         "nombre": "elevaciones laterales con mancuernas",
@@ -108,7 +108,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["hombros"],
-        "gif":"{ https://doriangym.es/wp-content/uploads/2021/11/ejecucion-elevaciones-laterales-con-mancuernas.gif }"
+        "gif":"https://doriangym.es/wp-content/uploads/2021/11/ejecucion-elevaciones-laterales-con-mancuernas.gif"
     },
     {
         "nombre": "abdominales cruzados",
@@ -119,7 +119,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["espalda"],
-        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/08/oie_nNrATfM0ABd7.gif?fit=357%2C301&ssl=1 }"
+        "gif": "https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/08/oie_nNrATfM0ABd7.gif?fit=357%2C301&ssl=1"
     },
     {
         "nombre": "zancadilla con mancuerna",
@@ -130,7 +130,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":["rodillas"],
-        "gif":"{ https://hips.hearstapps.com/hmg-prod/images/lunges-1561536831.gif}"
+        "gif":"https://hips.hearstapps.com/hmg-prod/images/lunges-1561536831.gif"
     },
     {
         "nombre": "aperturas en peck deck",
@@ -141,7 +141,7 @@
         "duracion": null,
         "equipo":"maquina",
         "lesion":["espalda","hombros"],
-        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/04/pecdeck.gif?fit=720%2C720&ssl=1 }"
+        "gif":"https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/04/pecdeck.gif?fit=720%2C720&ssl=1"
     },
     {
         "nombre": "puente para gluteos con mancuerna",
@@ -152,7 +152,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":["espalda"],
-        "gif":"{ https://media.metrolatam.com/2020/07/10/puente2-776dce0f68657151ed9b4e8acbf6eae4.gif }"
+        "gif":"https://media.metrolatam.com/2020/07/10/puente2-776dce0f68657151ed9b4e8acbf6eae4.gif"
     },
     {
         "nombre": "Vuelos Posteriores Mancuernas",
@@ -163,7 +163,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":["espalda","hombros"],
-        "gif":"{ https://www.thingys.com.ar/gymapps/tutorial/v_post_manc.gif }"
+        "gif":"https://www.thingys.com.ar/gymapps/tutorial/v_post_manc.gif"
     },
     {
         "nombre": "abdominales simples",
@@ -174,7 +174,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["espalda"],
-        "gif":"{ https://j.gifs.com/ElQN8m@small.gif }"
+        "gif":"https://j.gifs.com/ElQN8m@small.gif"
     },
     {
         "nombre": "plancha lateral",
@@ -185,7 +185,7 @@
         "duracion": 20,
         "equipo":null,
         "lesion":["hombros"],
-        "gif":"{ https://i.pinimg.com/originals/0a/19/95/0a19954ee641f0b08c34954d9251bab1.gif }"
+        "gif":"https://i.pinimg.com/originals/0a/19/95/0a19954ee641f0b08c34954d9251bab1.gif"
     },
     {
         "nombre": "Curl de bíceps",
@@ -196,7 +196,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":[],
-        "gif":" {https://www.deportrainer.com/img/cms/Post%20de%20blog/curl_de_biceps/curl-biceps-supino-con-mancuernas.gif }"
+        "gif":"https://www.deportrainer.com/img/cms/Post%20de%20blog/curl_de_biceps/curl-biceps-supino-con-mancuernas.gif"
     },
     {
         "nombre": "Tríceps en silla",
@@ -207,7 +207,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["hombros"],
-        "gif":"{ https://qph.cf2.quoracdn.net/main-qimg-2d15ad204dd541b20a5b82bbbb30847d }"
+        "gif":"https://qph.cf2.quoracdn.net/main-qimg-2d15ad204dd541b20a5b82bbbb30847d"
     },
     {
         "nombre": "Martillo con mancuernas",
@@ -218,7 +218,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":[],
-        "gif":"{ https://rincondelmusculo.com/wp-content/uploads/2014/09/CURL_DE_MARTILLO.gif }"
+        "gif":"https://rincondelmusculo.com/wp-content/uploads/2014/09/CURL_DE_MARTILLO.gif"
     },
     {
         "nombre": "Curl concentrado",
@@ -229,7 +229,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":["hombros"],
-        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/07/curl-concentre.gif }"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/07/curl-concentre.gif"
     },
     {
         "nombre": "Curl de cable",
@@ -240,7 +240,7 @@
         "duracion": null,
         "equipo":"",
         "lesion":["hombros"],
-        "gif":" { https://www.inspireusafoundation.org/wp-content/uploads/2022/12/cable-drag-curl.gif }"
+        "gif":"https://www.inspireusafoundation.org/wp-content/uploads/2022/12/cable-drag-curl.gif"
     }, 
     {
         "nombre": "Jumping Jacks",
@@ -251,7 +251,7 @@
         "duracion": null,
         "equipo":"",
         "lesion":[],
-        "gif":" { https://www.icegif.com/wp-content/uploads/icegif-134.gif }"
+        "gif":"https://www.icegif.com/wp-content/uploads/icegif-134.gif"
     },
     {
         "nombre": "Salto de cuerda",
@@ -262,7 +262,7 @@
         "duracion": 25,
         "equipo":null,
         "lesion":[],
-        "gif":"{ https://3.bp.blogspot.com/-ri8owFtzbZ0/WosdWfKbGwI/AAAAAAAAbHo/7ARtgvZPnMwXr3002fFfaCJShRqKLg_wwCKgBGAs/s1600/SALTAR-LA-CUERDA.gif }"
+        "gif":"https://3.bp.blogspot.com/-ri8owFtzbZ0/WosdWfKbGwI/AAAAAAAAbHo/7ARtgvZPnMwXr3002fFfaCJShRqKLg_wwCKgBGAs/s1600/SALTAR-LA-CUERDA.gif"
     },
     {
         "nombre": "burpee",
@@ -273,7 +273,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["espalda"],
-        "gif":"{ https://media1.giphy.com/media/sdPLLtuVeRdJ9DyCej/giphy.gif }"
+        "gif":"https://media1.giphy.com/media/sdPLLtuVeRdJ9DyCej/giphy.gif"
     },
     {
         "nombre": "zancada frontal",
@@ -284,7 +284,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["rodillas"],
-        "gif":"{ https://media.tenor.com/FKDGhd7VwAAAAAAC/estocadas-frontales.gif }"
+        "gif":"https://media.tenor.com/FKDGhd7VwAAAAAAC/estocadas-frontales.gif"
     },   
     {
         "nombre": "dead bug",
@@ -295,7 +295,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["espalda"],
-        "gif":"{ https://www.verywellfit.com/thmb/MHZjRAV_-B8M38m5mHnX75EmA1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/105-Dead-Bug-ExerciseGIF-407d0bbb6d8742be855b219e74c18bd0.gif }"
+        "gif":"https://www.verywellfit.com/thmb/MHZjRAV_-B8M38m5mHnX75EmA1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/105-Dead-Bug-ExerciseGIF-407d0bbb6d8742be855b219e74c18bd0.gif"
     },
     {
         "nombre": "abdominales bicicleta",
@@ -306,7 +306,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["espalda"],
-        "gif":"{ https://i.pinimg.com/originals/e1/e0/c6/e1e0c6c9eed187debddf2007562373ba.gif }"
+        "gif":"https://i.pinimg.com/originals/e1/e0/c6/e1e0c6c9eed187debddf2007562373ba.gif"
     },
     {
         "nombre": "tijeras",
@@ -317,7 +317,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":[],
-        "gif":"{ https://i.pinimg.com/originals/f4/ee/2b/f4ee2bcfe020bb896d45eadc64124a85.gif }"
+        "gif":"https://i.pinimg.com/originals/f4/ee/2b/f4ee2bcfe020bb896d45eadc64124a85.gif"
     },
     {
         "nombre": "sentadilla de sumo",
@@ -328,7 +328,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":["rodillas"],
-        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/06/squat-sumo-avec-haltere-2.gif }"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/06/squat-sumo-avec-haltere-2.gif"
     }
     ],
   "experiencia 2": [
@@ -341,7 +341,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["hombros"],
-        "gif":"{ https://media.tenor.com/Aq6euho3C5wAAAAC/dip-workout.gif }"
+        "gif":"https://media.tenor.com/Aq6euho3C5wAAAAC/dip-workout.gif"
     },
     {
         "nombre": "Salto de cuerda",
@@ -352,7 +352,7 @@
         "duracion": 25,
         "equipo":null,
         "lesion":[],
-        "gif":"{ https://3.bp.blogspot.com/-ri8owFtzbZ0/WosdWfKbGwI/AAAAAAAAbHo/7ARtgvZPnMwXr3002fFfaCJShRqKLg_wwCKgBGAs/s1600/SALTAR-LA-CUERDA.gif }"
+        "gif":"https://3.bp.blogspot.com/-ri8owFtzbZ0/WosdWfKbGwI/AAAAAAAAbHo/7ARtgvZPnMwXr3002fFfaCJShRqKLg_wwCKgBGAs/s1600/SALTAR-LA-CUERDA.gif"
     },
     {
         "nombre": "aperturas en peck deck",
@@ -363,7 +363,7 @@
         "duracion": null,
         "equipo":"maquina",
         "lesion":["espalda","hombros"],
-        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/04/pecdeck.gif?fit=720%2C720&ssl=1 }"
+        "gif":"https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/04/pecdeck.gif?fit=720%2C720&ssl=1"
     },
     {
         "nombre": "abdominales cruzados",
@@ -374,7 +374,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["espalda"],
-        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/08/oie_nNrATfM0ABd7.gif?fit=357%2C301&ssl=1 }"
+        "gif":"https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/08/oie_nNrATfM0ABd7.gif?fit=357%2C301&ssl=1"
     },
     {
         "nombre": "Press de banca",
@@ -385,7 +385,7 @@
         "duracion": null,
         "equipo":"barra",
         "lesion":["hombros"],
-        "gif": " { https://www.thingys.com.ar/gymapps/tutorial/pressbanca.gif }"
+        "gif": "https://www.thingys.com.ar/gymapps/tutorial/pressbanca.gif"
     },
     {
         "nombre": "prensa de pierna",
@@ -396,7 +396,7 @@
         "duracion": null,
         "equipo":"maquina",
         "lesion":["rodillas"],
-        "gif":"{ https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif} "
+        "gif":"https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif"
     },
     {
         "nombre": "remo con barra",
@@ -407,7 +407,7 @@
         "duracion": null,
         "equipo":"barra",
         "lesion":["espalda","hombros"],
-        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/07/REMO-CON-BARRA-PARADO-AGARRE-SUPINO.gif?fit=360%2C360&ssl=1} "
+        "gif":"https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/07/REMO-CON-BARRA-PARADO-AGARRE-SUPINO.gif?fit=360%2C360&ssl=1"
     },
     {
         "nombre": "sentadilla de sumo",
@@ -419,7 +419,7 @@
         "equipo":"mancuernas",
         "nota": "utiliza un peso que logres manejar pero que te haga esforzar un poco",
         "lesion":["rodillas"],
-        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/06/squat-sumo-avec-haltere-2.gif }"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/06/squat-sumo-avec-haltere-2.gif"
     },
     {
         "nombre": "peso muerto",
@@ -431,7 +431,7 @@
         "equipo":["barra","pesas"],
         "nota": "aumenta el peso, a uno que manejes pero que te haga esforzar mas",
         "lesion":["espalda"],
-        "gif":" https://boxlifemagazine.com/wp-content/uploads//2023/06/souleve-de-terre-roumain.gif}"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/06/souleve-de-terre-roumain.gif"
     },
     {
         "nombre": "Flexiones clásicas",
@@ -442,7 +442,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["hombros"],
-        "gif":"{ https://hips.hearstapps.com/hmg-prod/images/pushup-1525365829.gif }"
+        "gif":"https://hips.hearstapps.com/hmg-prod/images/pushup-1525365829.gif"
     },
     {
         "nombre": "pull-downs",
@@ -453,7 +453,7 @@
         "duracion": null,
         "equipo":"maquina",
         "lesion":["espalda"],
-        "gif":"{ https://media.tenor.com/AR6A1jMcnE8AAAAC/lat-pull-down.gif }"
+        "gif":"https://media.tenor.com/AR6A1jMcnE8AAAAC/lat-pull-down.gif"
     },
     {
         "nombre": "sentadilla con barra",
@@ -464,7 +464,7 @@
         "duracion": null,
         "equipo":"barra",
         "lesion":["rodillas","espalda"],
-        "gif":"{https://boxlifemagazine.com/wp-content/uploads//2023/06/homme-faisant-un-squat-avec-barre-5.gif }"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/06/homme-faisant-un-squat-avec-barre-5.gif"
     },
     {
         "nombre": "Curl de bíceps con mancuernas",
@@ -475,7 +475,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":[],
-        "gif":"{ https://doriangym.es/wp-content/uploads/2022/10/curl-de-biceps-con-mancuernas.gif}"
+        "gif":"https://doriangym.es/wp-content/uploads/2022/10/curl-de-biceps-con-mancuernas.gif"
     },
     {
         "nombre": "Fondos en paralelas",
@@ -486,7 +486,7 @@
         "duracion": null,
         "equipo":"maquina",
         "lesion":["hombros"],
-        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/06/fondo-en-paralelas.gif?fit=360%2C360&ssl=1 }"
+        "gif":"https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/06/fondo-en-paralelas.gif?fit=360%2C360&ssl=1"
     },
     {
         "nombre": "Dominadas asistidas",
@@ -498,7 +498,7 @@
         "equipo":["banda","barra","maquina"],
         "nota":"puedes usar una maquina o usar una banda elastica para ayudarte, pero no es estrictamente usar asistencias, sientete libre de hacerlas como desees",
         "lesion":["hombros"],
-        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/08/DOMINADA-ASISTIDA-CON-BANDA-ELASTICA.gif?fit=255%2C309&ssl=1}"
+        "gif":"https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/08/DOMINADA-ASISTIDA-CON-BANDA-ELASTICA.gif?fit=255%2C309&ssl=1"
     },
     {
         "nombre": "extenciones de triceps",
@@ -509,7 +509,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":[],
-        "gif":"{https://www.thingys.com.ar/gymapps/tutorial/7c9218fc52e8256003159658198439e2.gif} "
+        "gif":"https://www.thingys.com.ar/gymapps/tutorial/7c9218fc52e8256003159658198439e2.gif"
     },
     {
         "nombre": "Curl de martillo",
@@ -520,7 +520,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":[],
-        "gif":" { https://boxlifemagazine.com/wp-content/uploads//2023/08/curl-haltere-prise-neutre-min-1.gif }"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/08/curl-haltere-prise-neutre-min-1.gif"
     },
     {
         "nombre": "Press inclinado con barra",
@@ -531,7 +531,7 @@
         "duracion": null,
         "equipo":"barra",
         "lesion":["hombros"],
-        "gif":" { https://www.deportrainer.com/img/cms/Post%20de%20blog/press_banca_inclinado/ejecuci%C3%B3n-movimiento-press-superior-con-la-barra.gif }"
+        "gif":"https://www.deportrainer.com/img/cms/Post%20de%20blog/press_banca_inclinado/ejecuci%C3%B3n-movimiento-press-superior-con-la-barra.gif"
     },   
     {
         "nombre": "sentadilla bulgara",
@@ -542,7 +542,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":["rodillas"],
-        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/08/squat-bulgare-halteres-exercice-musculation.gif }"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/08/squat-bulgare-halteres-exercice-musculation.gif"
     },
     {
         "nombre": "hip thrust",
@@ -554,7 +554,7 @@
         "equipo":["mancuernas","maquina"],
         "lesion":["espalda"],
         "nota":"Para este ejercicio pueder usar una mancuerna,un saco con peso o una mauina especial, como desees, si quieres tener un mejor y más rápido resultado puedes hacer primero diez repeticiones normales y luego otras 10 pero estas con un rango de recorrido mucho m'as corto, es decir, no baje tanto seguido de esto en la ultima repeticion mantente arriba 10 segundos, aguanta, haz esto en cada serie ",
-        "gif":"{ https://biomecanicadeportiva.cl/wp-content/uploads/2021/04/barbellhipthrust.gif }"
+        "gif":"https://biomecanicadeportiva.cl/wp-content/uploads/2021/04/barbellhipthrust.gif"
     }
     ],
   "experiencia 3": [
@@ -567,7 +567,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["hombros"],
-        "gif":"{ https://qph.cf2.quoracdn.net/main-qimg-2d15ad204dd541b20a5b82bbbb30847d }"
+        "gif":"https://qph.cf2.quoracdn.net/main-qimg-2d15ad204dd541b20a5b82bbbb30847d"
     },
     {
         "nombre": "Salto de cuerda",
@@ -578,7 +578,7 @@
         "duracion": 25,
         "equipo":null,
         "lesion":[],
-        "gif":"{ https://3.bp.blogspot.com/-ri8owFtzbZ0/WosdWfKbGwI/AAAAAAAAbHo/7ARtgvZPnMwXr3002fFfaCJShRqKLg_wwCKgBGAs/s1600/SALTAR-LA-CUERDA.gif }"
+        "gif":"https://3.bp.blogspot.com/-ri8owFtzbZ0/WosdWfKbGwI/AAAAAAAAbHo/7ARtgvZPnMwXr3002fFfaCJShRqKLg_wwCKgBGAs/s1600/SALTAR-LA-CUERDA.gif"
     },
     {
         "nombre": "sentadilla de sumo",
@@ -590,7 +590,7 @@
         "equipo":"mancuernas",
         "nota": "utiliza un peso que logres manejar pero que te haga esforzar un poco",
         "lesion":["rodillas"],
-        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/06/squat-sumo-avec-haltere-2.gif }"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/06/squat-sumo-avec-haltere-2.gif"
     },
     {
         "nombre": "peso muerto",
@@ -602,7 +602,7 @@
         "equipo":["barra","pesas"],
         "nota": "aumenta el peso, a uno que manejes pero que te haga esforzar mas",
         "lesion":["espalda"],
-        "gif":" https://boxlifemagazine.com/wp-content/uploads//2023/06/souleve-de-terre-roumain.gif}"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/06/souleve-de-terre-roumain.gif"
     },
     {
         "nombre": "aperturas en peck deck",
@@ -613,7 +613,7 @@
         "duracion": null,
         "equipo":"maquina",
         "lesion":["espalda","hombros"],
-        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/04/pecdeck.gif?fit=720%2C720&ssl=1 }"
+        "gif":"https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/04/pecdeck.gif?fit=720%2C720&ssl=1"
     },
     {
         "nombre": "sentadilla con barra",
@@ -625,7 +625,7 @@
         "equipo":"barra",
         "nota":"usa un peso que no te lastime pero que te haga esforzarte más",
         "lesion":["rodillas","espalda"],
-        "gif":"{https://boxlifemagazine.com/wp-content/uploads//2023/06/homme-faisant-un-squat-avec-barre-5.gif }"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/06/homme-faisant-un-squat-avec-barre-5.gif"
     },
     {
         "nombre": "Curl de martillo",
@@ -636,7 +636,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":[],
-        "gif":" { https://boxlifemagazine.com/wp-content/uploads//2023/08/curl-haltere-prise-neutre-min-1.gif }"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/08/curl-haltere-prise-neutre-min-1.gif"
     },
     {
         "nombre": "sentadilla bulgara",
@@ -647,7 +647,7 @@
         "duracion": null,
         "equipo":"mancuernas",
         "lesion":["rodillas"],
-        "gif":"{ https://boxlifemagazine.com/wp-content/uploads//2023/08/squat-bulgare-halteres-exercice-musculation.gif }"
+        "gif":"https://boxlifemagazine.com/wp-content/uploads//2023/08/squat-bulgare-halteres-exercice-musculation.gif"
     },
     {
         "nombre": "Press de banca",
@@ -659,7 +659,7 @@
         "equipo":"barra",
         "nota": "aumenta el peso, a uno que manejes pero que te haga esforzar mas",
         "lesion":["hombros"],
-        "gif":" { https://www.thingys.com.ar/gymapps/tutorial/pressbanca.gif }"
+        "gif":"https://www.thingys.com.ar/gymapps/tutorial/pressbanca.gif"
     },
     {
         "nombre": "pull-ups",
@@ -670,7 +670,7 @@
         "duracion": null,
         "equipo":"barra",
         "lesion":["hombros","espalda"],
-        "gif":"{ https://fitnessprogramer.com/wp-content/uploads/2021/02/Pull-up.gif }"
+        "gif":"https://fitnessprogramer.com/wp-content/uploads/2021/02/Pull-up.gif"
     },
     {
         "nombre": "Flexiones diamante",
@@ -681,7 +681,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":[],
-        "gif":" { https://entrenandoc.com/wp-content/uploads/2023/06/flexiones-de-brazos-diamante.gif}"
+        "gif":"https://entrenandoc.com/wp-content/uploads/2023/06/flexiones-de-brazos-diamante.gif"
     },
     {
         "nombre": "Dominadas con peso",
@@ -692,7 +692,7 @@
         "duracion": null,
         "equipo":"barra",
         "lesion":["hombros","espalda"],
-        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/09/Weighted-Pull-up.gif?fit=360%2C360&ssl=1}"
+        "gif":"https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/09/Weighted-Pull-up.gif?fit=360%2C360&ssl=1"
     },
     {
         "nombre": "Fondos en anillas",
@@ -703,7 +703,7 @@
         "duracion": null,
         "equipo":null,
         "lesion":["hombros"],
-        "gif":"{https://www.inspireusafoundation.org/wp-content/uploads/2022/01/ring-dip.gif}"
+        "gif":"https://www.inspireusafoundation.org/wp-content/uploads/2022/01/ring-dip.gif"
     },
     {
         "nombre": "Tríceps en cuerda",
@@ -714,7 +714,7 @@
         "duracion": null,
         "equipo":"maquina",
         "lesion":[],
-        "gif":"{https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/06/EXTENSION-DE-TRICEPS-CON-SOGA-EN-POLEA-ALTA.gif?fit=360%2C360&ssl=1}"
+        "gif":"https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/06/EXTENSION-DE-TRICEPS-CON-SOGA-EN-POLEA-ALTA.gif?fit=360%2C360&ssl=1"
     },
     {
         "nombre": "Pulldown de polea alta",
@@ -725,7 +725,7 @@
         "duracion": null,
         "equipo":"maquina",
         "lesion":["hombros"],
-        "gif":"{ https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/09/oie_aNG2JGPmwYOt.gif?fit=360%2C360&ssl=1}"
+        "gif":"https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/09/oie_aNG2JGPmwYOt.gif?fit=360%2C360&ssl=1"
       },
       {
         "nombre": "crunch en polea alta",
@@ -736,7 +736,7 @@
         "duracion": null,
         "equipo":"maquina",
         "lesion":["espalda"],
-        "gif":"{ https://entrenandoc.com/wp-content/uploads/2023/08/Standing-Cable-Crunch.gif}"
+        "gif":"https://entrenandoc.com/wp-content/uploads/2023/08/Standing-Cable-Crunch.gif"
       },
       {
         "nombre": "hip thrust",
@@ -748,7 +748,7 @@
         "equipo":["mancuernas","maquina"],
         "lesion":["espalda"],
         "nota":"Para este ejercicio pueder usar una mancuerna,un saco con peso o una mauina especial, como desees, si quieres tener un mejor y más rápido resultado puedes hacer primero diez repeticiones normales y luego otras 10 pero estas con un rango de recorrido mucho m'as corto, es decir, no baje tanto seguido de esto en la ultima repeticion mantente arriba 10 segundos, aguanta, haz esto en cada serie ",
-        "gif":"{ https://biomecanicadeportiva.cl/wp-content/uploads/2021/04/barbellhipthrust.gif }"
+        "gif":"https://biomecanicadeportiva.cl/wp-content/uploads/2021/04/barbellhipthrust.gif"
     }
 
   ]
